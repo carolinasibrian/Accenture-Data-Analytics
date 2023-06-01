@@ -43,9 +43,9 @@ In short, the client wanted to see **“An analysis of their content categories 
  - - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 
 **End result will be three cleaned data set :**
- - [Reaction Types]
- - [Reactions]
- - [Content]
+ - [Reaction Types](https://github.com/carolinasibrian/Accenture-Data-Analytics/blob/main/ReactionTypes.csv)
+ - [Reactions](https://github.com/carolinasibrian/Accenture-Data-Analytics/blob/main/Reactions.csv)
+ - [Content](https://github.com/carolinasibrian/Accenture-Data-Analytics/blob/main/Content%20(1).csv)
 
 ### Data Modelling:
 
@@ -56,7 +56,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  - Top 5 categories
  
  ### Cleaned Data set:
- So, the cleaned data set after data modeling & data cleaning : [Cleaned Dataset]
+ So, the cleaned data set after data modeling & data cleaning : [Cleaned Dataset](https://github.com/carolinasibrian/Accenture-Data-Analytics/blob/main/Cleaned_Dataset.csv)
  
  ## Task - 3
  ### Data Visualization and Storytelling:
@@ -66,7 +66,7 @@ In short, the client wanted to see **“An analysis of their content categories 
   >- Pie Chart
   >- Bar Chart
   
- - Powerpoint Presentation : [PPT]
+ - Powerpoint Presentation : [PPT](https://github.com/carolinasibrian/Accenture-Data-Analytics/blob/main/Data%20Analytics%20template%20-%20Task%203_final.pptx)
  
  ## Task - 4
  ### Present to the Client:
